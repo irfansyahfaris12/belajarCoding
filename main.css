@@ -5,13 +5,14 @@
     text-align: center;
     display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
+    padding: 10px;
 
     
 }
 .second-header {
     margin: 10px;
-    width: 100px
+    width: 100px;
     background: red;
     color: aliceblue;
     height: 80px;
@@ -20,3 +21,14 @@
     justify-content: center;
     align-items: center
 }
+.avatar {
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 100px;
+}
+.container{
+    display: flex;
+    align-items: flex-start
+}
+
