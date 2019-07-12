@@ -1,0 +1,22 @@
+.header {
+    background: #000;
+    color: aliceblue;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+    
+}
+.second-header {
+    margin: 10px;
+    width: 100px
+    background: red;
+    color: aliceblue;
+    height: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
